@@ -150,3 +150,6 @@ Some images:
 ![Image](https://github.com/user-attachments/assets/acd5b93a-f965-4fef-ad3b-13bdb8948ac0)
 ![Image](https://github.com/user-attachments/assets/b6d3263f-721d-4728-b40b-d5e4945d6ee0)
 ![Image](https://github.com/user-attachments/assets/ac6882e6-d6ba-4136-9a1d-380b1995c4d1)
+
+JWT token generation:
+![Image](https://github.com/user-attachments/assets/3ed62568-6d84-445c-ae35-1c4a0cef8464)
