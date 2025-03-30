@@ -144,4 +144,9 @@ Full API documentation is available via Swagger UI at: http://localhost:8081/api
 
 Some images:
 
-![IMAGE!] https://drive.google.com/file/d/1m1fQl2EuEZtoJFxMVaSg24C8PcW-T7Cs/view?usp=drive_link
+![Image](https://github.com/user-attachments/assets/256580ca-3bec-42c7-a520-8f33c9508f15)
+![Image](https://github.com/user-attachments/assets/817c8ad3-3abc-4a80-89a7-47541062fb7c)
+![Image](https://github.com/user-attachments/assets/6ae03f31-8fdf-4506-8f6a-0128fdabe0bb)
+![Image](https://github.com/user-attachments/assets/acd5b93a-f965-4fef-ad3b-13bdb8948ac0)
+![Image](https://github.com/user-attachments/assets/b6d3263f-721d-4728-b40b-d5e4945d6ee0)
+![Image](https://github.com/user-attachments/assets/ac6882e6-d6ba-4136-9a1d-380b1995c4d1)
