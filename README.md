@@ -45,6 +45,7 @@ A RESTful API for managing a bookstore's inventory with user authentication, bui
 ### Setup & Installation
 
 1. Clone the repository
+
 git clone https://github.com/swapnil0651/Assignment-api-spring.git
 
 cd Assignment-api-spring
@@ -55,7 +56,7 @@ cd Assignment-api-spring
 CREATE DATABASE bookstore;
 
 
-3. Update application.yml (if needed)
+3. Update application.yml (if needed) (this is crucial otherwise it wont connect to the db)
 spring:
 datasource:
 url: jdbc:postgresql://localhost:5432/bookstore
@@ -68,7 +69,7 @@ password: your_password
 mvn clean install
 mvn spring-boot:run
 
-### Docker Setup
+### Docker Setup (This is the recommended method to run this project kindly use this)
 
 Build and run with Docker Compose
 docker-compose up --build
