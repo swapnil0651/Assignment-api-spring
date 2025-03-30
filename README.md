@@ -141,3 +141,6 @@ curl -X POST http://localhost:8081/api/books \
 ## 📚 Documentation
 
 Full API documentation is available via Swagger UI at: http://localhost:8081/api/swagger-ui.html
+
+Some images:
+![IMAGE!] (https://drive.google.com/file/d/1m1fQl2EuEZtoJFxMVaSg24C8PcW-T7Cs/view?usp=drive_link)
